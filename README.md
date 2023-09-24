@@ -1,5 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/applepeachmemo/frontend-project-11/workflows/hexlet-check/badge.svg)](https://github.com/applepeachmemo/frontend-project-11/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/423b39c5b100795fafe4/maintainability)](https://codeclimate.com/github/applepeachmemo/frontend-project-11/maintainability)
+
 
 # RSS агрегатор:
 
