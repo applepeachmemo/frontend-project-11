@@ -12,12 +12,6 @@ RSS — специализированный формат, предназнач�
 ```bash
  npm ci,
  ```
- or
- ```bash
- make install
- ```
-3.
- ```bash
- make build
- ```
+ 
+ 
  ## **Пример:** [*Open this page Vercel.*](frontend-project-11-4u1vqri92-applepeachmemos-projects.vercel.app/)
