@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/applepeachmemo/frontend-project-11/workflows/hexlet-check/badge.svg)](https://github.com/applepeachmemo/frontend-project-11/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/423b39c5b100795fafe4/maintainability)](https://codeclimate.com/github/applepeachmemo/frontend-project-11/maintainability)
-
+[![Github Actions](https://github.com/applepeachmemo/frontend-project-11/actions/workflows/Github%20Actions.yml/badge.svg)](https://github.com/applepeachmemo/frontend-project-11/actions/workflows/Github%20Actions.yml)
 
 # RSS агрегатор:
 
@@ -16,4 +16,4 @@ RSS — специализированный формат, предназнач�
  ```
  
  
- ## **Пример:** [*Vercel*](frontend-project-11-4u1vqri92-applepeachmemos-projects.vercel.app/)
+ ## **Пример:** [*Vercel*](frontend-project-11-ten-liard.vercel.app/)
